@@ -21,4 +21,4 @@ for x in range(2, X+1) :
         
     opt.append(candidate)
     
-print(opt.pop())
+print(opt[-1])
